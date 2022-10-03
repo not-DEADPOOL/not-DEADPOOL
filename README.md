@@ -9,7 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=not-DEADPOOL&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-DEADPOOL&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+# 🎶 Mood song:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/632Xl9n1wHgMKoxD07WZHW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### 💀 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
