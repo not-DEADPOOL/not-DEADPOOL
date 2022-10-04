@@ -7,9 +7,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=not-deadpool&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=not-deadpool&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=not-deadpool&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/269aJzZLmdUAAAAM/im-going.gif">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-deadpool&show_icons=true&theme=dark&title_color=cc0000&text_color=ffffff&locale=en" alt="not-deadpool" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-deadpool&theme=dark" alt="not-deadpool" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-deadpool&show_icons=true&theme=dark&title_color=cc0000&text_color=ffffff&locale=en&layout=compact" alt="not-deadpool" /></p> <br>
+<br>
+<br>
+<br>
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=not-deadpool&theme=discord&no-frame=false&no-bg=true&margin-w=4)
