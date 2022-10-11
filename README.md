@@ -30,4 +30,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+![snake gif](https://github.com/not-DEADPOOL/not-DEADPOOL/blob/output/github-contribution-grid-snake-dark.svg)
 [![](https://visitcount.itsvg.in/api?id=not-DEADPOOL&icon=3&color=4)](https://visitcount.itsvg.in)
