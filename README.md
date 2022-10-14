@@ -17,8 +17,6 @@
 <p><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-deadpool&show_icons=true&theme=dark&title_color=cc0000&text_color=ffffff&locale=en&layout=compact" alt="not-deadpool" /></p> <br>
 <br>
 <br>
-<br>
-<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=not-deadpool&theme=discord&no-frame=false&no-bg=true&margin-w=4)
