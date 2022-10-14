@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/not-DEADPOOL/not-DEADPOOL/main/banner.png">
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/not-DEADPOOL/not-DEADPOOL/main/banner1.png">
 
 # 🗿 About Me 🗿:
 🔭 I’m currently working on random stuff and programming Malduinos<br>🌱 I’m currently learning C# and Arduino<br>⚡ I love ?: operator<br>🐀 I also love rats<br>🦝 and raccoons
