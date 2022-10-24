@@ -27,7 +27,7 @@
 
 
 ### 💀 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/130/369/b73.gif" width="512px"/>
 
 ---
 ![snake gif](https://github.com/not-DEADPOOL/not-DEADPOOL/blob/output/github-contribution-grid-snake-dark.svg)
