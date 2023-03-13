@@ -27,7 +27,7 @@
 
 
 ### 💀
-<img src="https://media.tenor.com/kkrhXsiKkHgAAAAM/me-when-fat-man.gif" width="512px"/>
+<img src="https://github.com/not-DEADPOOL/not-DEADPOOL/blob/main/ultrakill.gif?raw=true" width="512px"/>
 
 ---
 ![snake gif](https://github.com/not-DEADPOOL/not-DEADPOOL/blob/output/github-contribution-grid-snake-dark.svg)
