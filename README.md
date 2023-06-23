@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/not-DEADPOOL/not-DEADPOOL/main/banner1.png">
 
 # 🗿 About Me 🗿:
-🔭 I’m currently working on random stuff and programming Malduinos<br>🌱 I’m currently learning C#, Python and Java <br>⚡ I love ?: operator<br>🐀 I also love rats<br>🦝 and raccoons
+🔭 I’m currently working on creating web-pages and programming Malduinos<br>🌱 I’m currently learning JS, PHP, Java and some mySQL<br>⚡ I love ?: operator<br>🐀 I also love rats<br>🦝 and raccoons
 
 
 # 💻 What I know:
@@ -47,8 +47,8 @@
 ![DEADPOOLs Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dead_pool_yotube)
 
 
-### 💀
-
+<h1 style="font-size:40;font-weigh:700; width:100%;">My honest reaction 💀🏀</h1>
+<br>
 <p align="center">
 <img src="https://github.com/not-DEADPOOL/not-DEADPOOL/blob/main/ultrakill.gif?raw=true" width="512px"/>
 <\p>
