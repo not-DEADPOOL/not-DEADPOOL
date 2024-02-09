@@ -47,7 +47,7 @@
 <br>
 <p align="center">
 <img src="https://github.com/not-DEADPOOL/not-DEADPOOL/blob/main/ultrakill.gif?raw=true" width="512px"/>
-<\p>
+</p>
 
 ---
 ![snake gif](https://github.com/not-DEADPOOL/not-DEADPOOL/blob/output/github-contribution-grid-snake-dark.svg)
